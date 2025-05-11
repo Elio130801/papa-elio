@@ -1,4 +1,4 @@
-# papa-elio
+# repositorio uno para aprender Git
 Primer repositorio creado en GitHub
 
 ## descripcion 
